@@ -3,3 +3,7 @@ body {
   padding: 0;
   background-color: #d3d3d3;
 }
+
+.check-button {
+  margin: 60px;
+}
