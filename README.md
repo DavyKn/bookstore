@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# BookStore components setup
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+> This is a project that will be displaying Books and adding the from an external API. At the moment this is the initial setup of the components, It doesnt have much styling as well as functionalities.
 
-### `npm start`
+## Here, are: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://github.com/DavyKn/math_magician
 
-### `npm test`
+---------------------- | ------------------------------
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- CSS
+- React Dom/React Router Dom
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Live Site
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Get Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To get the content of this project locally you need to run the following commands in your terminal.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
+- IDE(code editor) like: **Vscode**, **Sublime**, etc. 
+- [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Setup
+1. Download the **Zip** file or clone the repo with:
+```bash
+[git clone https://github.com/DavyKn/bookstore
+```
+3. To access cloned directory run:
+```
+ - npm start
+```
+3. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Install
+> To install linters and other project's dependencies run:
+```bash
+npm install
+```
+## Run Test for Linters
 
-## Learn More
+For tracking linter errors locally you need to follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. For tracking linter errors in HTML files run:
+```bash 
+npx hint .
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. For tracking linter errors in CSS or SASS files run:
 
-### Code Splitting
+```bash
+npx stylelint "\*_/_.{css,scss}"
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. For tracking linter errors in JavaScript files run:
 
-### Analyzing the Bundle Size
+```bash
+npx eslint .
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Authors
 
-### Making a Progressive Web App
+👤 ****
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+👤 **Davis Nyale**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- GitHub: [@DavyKn](https://github.com/DavyKn)
+- Twitter: [@davykk04](https://twitter.com/davykk04)
+- LinkedIn: [davis-katana](https://www.linkedin.com/in/davis-katana-246600159/)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🤝 Contributing
+
+- Contributions, issues, and feature requests are welcome!
+- Feel free to check the [issues page](https://github.com/DavyKn/bookstore/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thank You [Microverse](www.microverse.org) team that help me with the template of this project.
+- Thanks to everyone who will get time to check this code and suggest any [issue](https://github.com/ice949/Javascript-capstone/issues)
+
