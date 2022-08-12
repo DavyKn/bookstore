@@ -9,7 +9,7 @@ export default function Navbar() {
         Bookstore CMS
       </h2>
       <ul>
-        <li><Link to="/Books">Books</Link></li>
+        <li><Link to="/">Book</Link></li>
         <li><Link to="/Categories">Categories</Link></li>
       </ul>
     </div>
