@@ -4,7 +4,7 @@
 
 ## Description
 
-> This is a project that will be displaying Books and adding the from an external API. At the moment this is the initial setup of the components, It doesnt have much styling as well as functionalities.
+> This is a project that will be displaying Books and adding the from an external API. At the moment this is the initial setup of the components, It doesnt have much styling as well as functionalities.I have started adding Redux so as to have a central place to manage my state of components.
 
 ## Here, are: 
 
@@ -16,6 +16,7 @@ https://github.com/DavyKn/math_magician
 
 ## Built With
 
+- redux
 - React
 - CSS
 - React Dom/React Router Dom
