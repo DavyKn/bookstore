@@ -1,4 +1,4 @@
-const STATUS = 'src/categories/STATUS';
+const STATUS = 'bookstore/categories/STATUS';
 
 export function checkStatus(category) {
   return {
