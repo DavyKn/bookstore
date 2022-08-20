@@ -1,10 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# BookStore components setup
+# BookStore 
 
 ## Description
 
-> This is a project that will be displaying Books and adding the from an external API. At the moment this is the initial setup of the components, It doesnt have much styling as well as functionalities.I have started adding Redux so as to have a central place to manage my state of components.
+> TTis is a book store that its book contect is being fetched from an external API. It gives the user the interraction
+> capabilty.The user can add a Book, or delete the book. Has a category section displaying the varity of books.
+> 
 
 ## Here, are: 
 
@@ -20,6 +22,7 @@ https://github.com/DavyKn/math_magician
 - React
 - CSS
 - React Dom/React Router Dom
+- API
 
 ## Live Site
 

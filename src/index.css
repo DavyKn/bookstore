@@ -22,7 +22,7 @@ body {
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  color: #3ee254;
+  color: #4386bf;
 }
 
 .nav-link {
@@ -70,7 +70,7 @@ body {
   font-family: 'Roboto Slab', serif;
   font-size: 0.875rem;
   font-weight: 300;
-  color: #3fce4d;
+  color: #4386bf;
 }
 
 .add-books {
@@ -114,13 +114,13 @@ body {
   font-family: 'Roboto Slab', serif;
   font-size: 0.875rem;
   font-weight: 300;
-  color: #3ee254;
+  color: #4386bf;
   border: none;
 }
 
 .add-btn {
   border-radius: 3px;
-  background-color: #3ee254;
+  background-color: #4386bf;
   font-family: 'Roboto Slab', serif;
   font-size: 0.813rem;
   font-weight: bold;
